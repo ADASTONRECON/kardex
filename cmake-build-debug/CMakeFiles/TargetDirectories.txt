@@ -1,0 +1,3 @@
+/home/giusseppe/Programacion/CLion/Kardex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/giusseppe/Programacion/CLion/Kardex/cmake-build-debug/CMakeFiles/Kardex.dir
+/home/giusseppe/Programacion/CLion/Kardex/cmake-build-debug/CMakeFiles/edit_cache.dir

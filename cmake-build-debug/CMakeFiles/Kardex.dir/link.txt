@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Kardex.dir/main.cpp.o  -o Kardex 
